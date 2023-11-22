@@ -25,6 +25,16 @@ h2 {
     margin-bottom: 10px;
 }
 
+<style>
+   a {
+      color: #333;
+      text-decoration: none;
+   }
+   a:hover {
+      color: #f00;
+   }
+</style>
+
 ul {
     list-style-type: square;
 }
