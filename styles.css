@@ -107,7 +107,7 @@ a:hover {
 .ring{
     width: 200px;
     height: 200px;
-    border: 100px solid #000;
+    border: 10px solid #000;
     border-radius: 50%;
     position: bottom;
 }
