@@ -1,0 +1,12 @@
+.ring{
+    width: 200px;
+    height: 200px;
+    border: 10px solid #000;
+    border-radius: 50%;
+    position: bottom;
+}
+.ring:nth-child(1){
+    border-bottom-width: 8px;
+    border-color: rgb(255,255,255);
+    animation: rotate 2s linear infinity
+}
