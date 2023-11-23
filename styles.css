@@ -103,3 +103,17 @@ a:hover {
     0% { transform: translateX(0); }
     100% { transform: translateX(calc(100% + 400px)); }
 }
+
+.ring{
+    width: 200px;
+    height: 200px;
+    border: 0px solid #000;
+    border-radius: 50%;
+    position: absolute;
+}
+.ring:nth-child(1){
+    border-bottom-width: 8px;
+    border-color: rgb(255,255,255);
+    animation: rotate 2s linear infinity
+}
+
