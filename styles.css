@@ -92,7 +92,7 @@ a:hover {
     left: -100px;
     width: 400px;
     height: 500px;
-    background-image: url('robot.png');
+    background-image: url('/robot.png');
     background-size: contain;
     background-repeat: no-repeat;
     animation: running 4s linear infinite;
