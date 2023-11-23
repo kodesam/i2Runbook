@@ -109,7 +109,7 @@ a:hover {
     height: 200px;
     border: 0px solid #000;
     border-radius: 50%;
-    position: absolute;
+    position: bottom;
 }
 .ring:nth-child(1){
     border-bottom-width: 8px;
